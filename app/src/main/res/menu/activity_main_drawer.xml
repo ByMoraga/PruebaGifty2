@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/cli"
+            >
+            <menu>
+                <item
+                    android:id="@+id/activity_cliente_agregar"
+                    android:icon="@drawable/ic_menu_cliente"
+                    android:title="@string/agr" />
+                <item
+                    android:id="@+id/eliminarCliente"
+                    android:title="@string/elimcl" />
+                <item
+                    android:id="@+id/modificarCliente"
+                    android:title="@string/actual" />
+                <item
+                    android:id="@+id/listarCliente"
+                    android:title="@string/list" />
+            </menu>
+        </item>
+        <item android:title="@string/stock"
+            >
+            <menu>
+                <item
+                    android:id="@+id/agregar"
+                    android:icon="@drawable/ic_menu_slideshow"
+                    android:title="@string/agr" />
+                <item
+                    android:id="@+id/eliminar"
+                    android:title="@string/elim" />
+                <item
+                    android:id="@+id/modificar"
+                    android:title="@string/actual" />
+                <item
+                    android:id="@+id/listar"
+                    android:title="@string/list" />
+            </menu>
+        </item>
+        <item android:title="@string/cat"
+            >
+            <menu>
+                <item
+                    android:id="@+id/agregarCategoria"
+                    android:icon="@drawable/ic_menu_categoria"
+                    android:title="@string/agr" />
+                <item
+                    android:id="@+id/eliminarCategoria"
+                    android:title="@string/elim" />
+                <item
+                    android:id="@+id/modificarCategoria"
+                    android:title="@string/actual" />
+                <item
+                    android:id="@+id/listarCategoria"
+                    android:title="@string/list" />
+                <item
+                    android:id="@+id/listarProductos"
+                    android:title="@string/list" />
+            </menu>
+        </item>
+        <item android:title="@string/fech"
+            >
+            <menu>
+                <item
+                    android:id="@+id/agregarf"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="@string/busc" />
+            </menu>
+        </item>
+        <item android:title="@string/busq"
+            >
+            <menu>
+                <item
+                    android:id="@+id/busqueda"
+                    android:icon="@drawable/ic_menu_buscar"
+                    android:title="@string/busqr" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

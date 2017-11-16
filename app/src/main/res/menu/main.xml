@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/cli">
+            <menu>
+                <item
+                    android:id="@+id/agregarCliente"
+                    android:title="@string/agr" />
+                <item
+                    android:id="@+id/eliminarCliente"
+                    android:title="@string/elimcl" />
+                <item
+                    android:id="@+id/modificarCliente"
+                    android:title="@string/actual" />
+                <item
+                    android:id="@+id/listarCliente"
+                    android:title="@string/list" />
+            </menu>
+        </item>
+        <item android:title="@string/stock">
+            <menu>
+                <item
+                    android:id="@+id/agregar"
+                    android:title="@string/agr" />
+                <item
+                    android:id="@+id/eliminar"
+                    android:title="@string/elim" />
+                <item
+                    android:id="@+id/modificar"
+                    android:title="@string/actual" />
+                <item
+                    android:id="@+id/listar"
+                    android:title="@string/list" />
+            </menu>
+        </item>
+        <item android:title="@string/cat">
+            <menu>
+                <item
+                    android:id="@+id/agregarCategoria"
+                    android:title="@string/agr" />
+                <item
+                    android:id="@+id/eliminarCategoria"
+                    android:title="@string/elim" />
+                <item
+                    android:id="@+id/modificarCategoria"
+                    android:title="@string/actual" />
+                <item
+                    android:id="@+id/listarCategoria"
+                    android:title="@string/list" />
+            </menu>
+        </item>
+    </group>
+</menu>

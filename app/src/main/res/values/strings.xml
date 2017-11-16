@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PruebaGifty</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="rut">RUT</string>
+    <string name="nom">Nombre</string>
+    <string name="ape">Apellidos</string>
+    <string name="dir">Direccion</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="comuna">Comuna</string>
+    <string name="Lat">Latitud</string>
+    <string name="lon">Longitud</string>
+    <string name="fnac">Fecha de Nacimiento</string>
+    <string name="nnac">dd/mm/aaaa</string>
+    <string name="listreg">Lista de regalos deseados</string>
+    <string name="regcl">Agregar Cliente</string>
+
+    <string name="elimcl">Eliminar Cliente</string>
+
+    <string name="tienda">Tienda Gifty</string>
+
+    <string name="cli">Cliente</string>
+    <string name="cat">Categoria</string>
+    <string name="stock">Cantidad de Productos</string>
+    <string name="prod">Productos</string>
+    <string name="agr">Agregar</string>
+    <string name="elim">Eliminar</string>
+    <string name="actual">Actualizar</string>
+    <string name="list">Lista de registros</string>
+    <string name="fech">Fecha Especial</string>
+    <string name="busc">Buscar...</string>
+    <string name="busq">Busqueda</string>
+    <string name="busqr">Busqueda rapida</string>
+
+</resources>

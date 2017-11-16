@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test prueba Gifty</string>
+    <string name="rut">rôle fiscal unique</string>
+    <string name="nom">prénom</string>
+    <string name="ape">nom</string>
+    <string name="dir">adresse</string>
+    <string name="ciudad">ville</string>
+    <string name="comuna">Commune</string>
+    <string name="Lat">Latitude</string>
+    <string name="lon">longueur</string>
+    <string name="fnac">date de naissance</string>
+    <string name="nnac">dd/mm/yyyy</string>
+    <string name="listreg">Liste de souhaits souhaitée</string>
+    <string name="regcl">ajouter un client</string>
+
+    <string name="elimcl">éliminer Client</string>
+
+    <string name="tienda">Gifty Store</string>
+
+    <string name="cli">Client</string>
+    <string name="cat">catégorie</string>
+    <string name="stock">quantité de produits</string>
+    <string name="prod">produits</string>
+    <string name="agr">ajouter</string>
+    <string name="elim">éliminer</string>
+    <string name="actual">améliorer</string>
+    <string name="list">liste des enregistrements</string>
+    <string name="fech">date spéciale</string>
+    <string name="busc">trouver...</string>
+    <string name="busq">Recherche</string>
+    <string name="busqr">recherche rapide</string>
+    catégorie
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TestGifty</string>
+    <string name="rut">Unique Roll Tributary</string>
+    <string name="nom">First name</string>
+    <string name="ape">Surnames</string>
+    <string name="dir">Address</string>
+    <string name="ciudad">City</string>
+    <string name="comuna">Commune</string>
+    <string name="Lat">Latitude</string>
+    <string name="lon">Length</string>
+    <string name="fnac">Birthdate</string>
+    <string name="nnac">dd/mm/yyyy</string>
+    <string name="listreg">List of gift Wish!!</string>
+    <string name="regcl">Add Client</string>
+
+    <string name="elimcl">Remove Client</string>
+
+    <string name="tienda">Gifty Store</string>
+
+    <string name="cli">Client</string>
+    <string name="cat">Category</string>
+    <string name="stock">Stocks</string>
+    <string name="prod">Products</string>
+    <string name="agr">Add</string>
+    <string name="elim">Remove</string>
+    <string name="actual">To update</string>
+    <string name="list">List of records</string>
+    <string name="fech">Special date</string>
+    <string name="busc">Search...</string>
+    <string name="busq">searching</string>
+    <string name="busqr">Quick search</string>
+</resources>
